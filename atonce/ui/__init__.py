@@ -1,0 +1,1 @@
+"""AtOnce QGIS user interface."""

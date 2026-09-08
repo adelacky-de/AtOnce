@@ -1,0 +1,1 @@
+"""Shared AtOnce application models."""

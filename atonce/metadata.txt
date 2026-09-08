@@ -1,0 +1,17 @@
+[general]
+name=AtOnce
+qgisMinimumVersion=3.28
+qgisMaximumVersion=3.99
+description=Free-form QGIS workflows: SOURCE → OPERATION → OUTPUT with lineage, selective updates, GeoPackage, and GeoTIFF/KMZ raster delivery.
+version=0.1.10
+license=GPL-3.0-or-later
+author=AtOnce
+email=adelacky-de@gmail.com
+about=AtOnce is a free-form canvas for QGIS. Build SOURCE → OPERATION → OUTPUT graphs, register lineage, and refresh only the outputs you choose. Vector lane: filter, join, merge, field and spatial ops, with stable feature identity and GeoPackage / GeoJSON / Shapefile / KML / KMZ deliveries. Raster lane: CRS and format conversion with GeoTIFF and KMZ output. GeoPackage is a container—pick a layer as SOURCE; AtOnce-owned OUTPUT layers are protected independently.
+tracker=https://github.com/adelacky-de/AtOnce/issues
+repository=https://github.com/adelacky-de/AtOnce
+homepage=https://github.com/adelacky-de/AtOnce
+category=Vector
+icon=resources/icon.png
+experimental=True
+deprecated=False
